@@ -1,6 +1,6 @@
 # Olá! Eu sou João 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=3500&color=E7E7E7&vCenter=true&multiline=true&width=452&height=100&lines=+%F0%9F%8E%93+Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;%F0%9F%92%BB+Apaixonado+por+Tecnologia;%F0%9F%94%A7+Experi%C3%AAncia+em+Telecomunica%C3%A7%C3%B5es+e+TI" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=3500&color=E7E7E7&vCenter=true&multiline=true&width=452&height=84&lines=+%F0%9F%8E%93+Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;%F0%9F%92%BB+Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
 
 Atualmente, trabalho na área de Tecnologia da Informação, onde desempenho atividades como:
 
